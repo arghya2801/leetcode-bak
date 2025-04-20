@@ -1,0 +1,244 @@
+{
+  "main": {
+    "id": "a028e366dd37e80a",
+    "type": "split",
+    "children": [
+      {
+        "id": "c0ccaa6f9e2edaea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a34ab68175e3aa40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Structures and Algorithms/Easy/278. First Bad Version.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "278. First Bad Version"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cfb69e5ecbfaf403",
+    "type": "split",
+    "children": [
+      {
+        "id": "b9436c2fc30a52c3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1d10eb5b40ab0893",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "298d76f9f3faf12c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5bf008e0fc09876b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "38d55c1fde489eda",
+    "type": "split",
+    "children": [
+      {
+        "id": "4f65b18379ba8f46",
+        "type": "tabs",
+        "dimension": 65.7520325203252,
+        "children": [
+          {
+            "id": "5a1586ebcbcfc177",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Data Structures and Algorithms/Easy/278. First Bad Version.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 278. First Bad Version"
+            }
+          },
+          {
+            "id": "fe9012d975b34e82",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Data Structures and Algorithms/Medium/200. Number of Islands.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 200. Number of Islands"
+            }
+          },
+          {
+            "id": "1089493beece5d64",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2ccaf3edec99ab8b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Data Structures and Algorithms/Medium/200. Number of Islands.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 200. Number of Islands"
+            }
+          }
+        ]
+      },
+      {
+        "id": "196ce94000cca5bc",
+        "type": "tabs",
+        "dimension": 34.2479674796748,
+        "children": [
+          {
+            "id": "67f168e72bd23fb9",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Data Structures and Algorithms/Easy/278. First Bad Version.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.507532467532468,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.5838973289726416,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of 278. First Bad Version"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "workspaces:Manage workspace layouts": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a34ab68175e3aa40",
+  "lastOpenFiles": [
+    "Data Structures and Algorithms/Easy/242. Valid Anagram.md",
+    "Data Structures and Algorithms/Easy/232. Implement Queue using Stacks.md",
+    "Data Structures and Algorithms/Easy/226. Invert Binary Tree.md",
+    "Data Structures and Algorithms/Easy/217. Contains Duplicate.md",
+    "Data Structures and Algorithms/Easy/206. Reverse Linked List.md",
+    "Data Structures and Algorithms/Easy/191. Number of 1 Bits.md",
+    "Data Structures and Algorithms/Easy/169. Majority Element.md",
+    "Data Structures and Algorithms/Easy/141. Linked List Cycle.md",
+    "Data Structures and Algorithms/Easy/125. Valid Palindrome.md",
+    "Data Structures and Algorithms/Easy/121. Best Time to Buy and Sell Stock.md",
+    "Data Structures and Algorithms/Easy/110. Balanced Binary Tree.md",
+    "Data Structures and Algorithms/Easy/104. Maximum Depth of Binary Tree.md",
+    "Data Structures and Algorithms/Easy/100. Same Tree.md",
+    "Data Structures and Algorithms/Easy/70. Climbing Stairs.md",
+    "Data Structures and Algorithms/Easy/67. Add Binary.md",
+    "Data Structures and Algorithms/Easy/21. Merge Two Sorted Lists.md",
+    "Data Structures and Algorithms/Easy/20. Valid Parenthesis.md",
+    "Data Structures and Algorithms/Easy/13. Roman to Integer.md",
+    "Data Structures and Algorithms/Easy/9. Palindrome Number.md",
+    "Data Structures and Algorithms/Easy/1. Two Sum.md",
+    "Data Structures and Algorithms/Medium/2. Add Two Numbers.md",
+    "Data Structures and Algorithms/Medium/200. Number of Islands.md",
+    "Data Structures and Algorithms/Medium/150. Evaluate Reverse Polish Notation.md",
+    "Data Structures and Algorithms/Easy/844. Backspace String Compare.md",
+    "string.md",
+    "Data Structures and Algorithms/Easy/733. Flood Fill.md",
+    "Databases",
+    "Data Structures and Algorithms",
+    "Data Structures and Algorithms/Medium",
+    "Data Structures and Algorithms/Easy"
+  ]
+}
